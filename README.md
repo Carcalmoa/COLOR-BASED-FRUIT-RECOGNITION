@@ -10,7 +10,7 @@ To recognize what kind of fruit is in an image introduced by a user, we create t
 The last function creates the confusion matrix, a matrix having as rows the class of image that we use as input and as columns the class that the program assigns to the image. So, the matrix should be a diagonal matrix of threes in the perfect case. In our project, taking the tree first images of each class as reference for the alphabet and scanning the three last images of each class for creating the confusion matrix we got a perfect matrix:
 
 	
-##Limits
+## Limits
 	
 Our project uses mainly a color based algorithm to detect the fruit. Therefore, there is a certain degree of confusion and error when different fruits have the same colors. For example a red apple and a strawberry. That is due to the fact that there is no shape detection or analysis in our program. 
 Another limit for our program is the background. Our project is designed exclusively for the detection of fruits in images with a white or almost white background. So any type of colors or distortions in it would eventually cause an wrong detection (wrong fruit type) within our program.  
