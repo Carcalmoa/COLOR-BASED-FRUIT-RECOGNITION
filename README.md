@@ -19,3 +19,5 @@ Another limit for our program is the background. Our project is designed exclusi
 ## Possible applications
 There are multiple applications for a program like this. One of the most beneficial applications would be in the industrial domain. For example an automatic sorting machine that can sort fruits based on their type using our program’s detection feature. In addition to that, with a little adjustment to our program, it could be used as the software of an automatic quality sorting machine that can detect low quality or unripe fruits or vegetables based on the different color spots (for example: green or black spots in a tomato).
 
+
+
